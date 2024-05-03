@@ -66,21 +66,5 @@
        preserveAspectRatio="none"
        height="188.11874"
        width="268.28751" />
-    <rect
-       style="opacity:0.98000004;fill:#000000;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.25;stroke-opacity:1"
-       id="rect826"
-       width="23.519718"
-       height="8.0180855"
-       x="-2.9399648"
-       y="77.304443"
-       rx="0.74030417" />
-    <rect
-       style="opacity:0.98000004;fill:#000000;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.25;stroke-opacity:1"
-       id="rect828"
-       width="83.922638"
-       height="75.37001"
-       x="126.41849"
-       y="88.52977"
-       rx="0.74030417" />
   </g>
 </svg>
